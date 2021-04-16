@@ -1,0 +1,9 @@
+name: Frogfacts
+version: ${project.version}
+main: me.frogcorp.frogfacts.Main
+api-version: 1.16
+commands:
+  frogfact:
+    description: Provides the user with a random frog fact
+    usage: /<command>
+
